@@ -1,6 +1,6 @@
 let env = {
   WEB_HOST: "hostname||ip",
-  WEB_PORT: "80",
+  WEB_PORT: "3002",
 
   DB_PROT: "mongodb+srv://",
   DB_USER: "username:",
