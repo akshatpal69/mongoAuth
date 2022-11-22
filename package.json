@@ -1,0 +1,23 @@
+{
+  "name": "servermongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverMongo.js",
+  "scripts": {
+    "test": "nodemon serverMongo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "16.11.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
